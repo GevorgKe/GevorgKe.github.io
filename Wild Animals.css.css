@@ -1,0 +1,124 @@
+
+body{
+    
+    margin: 30px auto;
+    font: 14px Arial, Tahoma, sans-serif;
+    line-height: 2;
+    line-height: 2;
+    text-indent: 25px; 
+    color: #000;
+    background-image: url(../images/wp3929843.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover; 
+   
+}
+
+img{
+    
+    border: 0;
+}
+.main{
+    margin: 30px 50px;
+}
+.Tel{
+    background-image: url(../images/tel.png);
+    background-repeat: no-repeat;
+    background-position:0 161px;
+    background-attachment: fixed;
+    
+    
+}
+
+H1{
+    color: #000;
+    text-align: center; 
+    border:  5px solid #fff;
+    background-color: #EDF099;
+    padding: 5px;
+  
+}
+
+.Color{
+    color:coral;
+    
+}
+/*
+.map{
+    text-align: end;
+}*/
+.name1{
+    color: #D0FF00;
+    border-bottom-width: 2px;
+    border-bottom-style: dashed;
+    border-bottom-color: #FF0F00;
+    float: left;
+}
+
+.name2{
+    text-align: right;
+}
+
+a {
+    color: #FF00AE;
+}
+
+p, {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 14px;
+    text-indent: 25px;  } 
+
+p, .name6{
+     font-style: italic;
+    font-weight: bold;
+}
+.name4{
+    margin:auto;
+    
+}
+
+    .name5{
+    border: 2px solid #A6A6A6;
+    width: 400px;
+    float: right;
+    vertical-align: middle;
+    text-indent: 25px;  
+    color: #000;  
+    background-color: aliceblue;
+}
+
+    .name7{
+    border-bottom: 1px dashed #FF0F00;
+        
+}
+
+    .name8{
+    color: #000;
+    border-bottom:  #B34EE9 dashed;
+    border: 2px solid #EDF099;
+    padding:10px 10px;
+    background-color: #EDF099;
+    margin: 40px 40px;
+    
+}
+    .name9{
+    right: inherit;
+
+}
+    ul{
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    list-style: url(../images/checked.png);
+    line-height: 2;
+    text-indent: 25px; 
+}
+
+   
+
+    .Bear{
+    float: right;
+}
+
+    .Tiger1{
+    float: left;
+}
